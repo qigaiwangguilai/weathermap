@@ -1,5 +1,7 @@
 From swr.ap-southeast-2.myhuaweicloud.com/huawei-cse/nodejs:1.0.0
 
+RUN sleep 2h
+
 RUN ln -sf /usr/share/zoneinfo/Asia/Shanghai /etc/localtime && \
     echo "Asia/Shanghai" > /etc/timezone
 

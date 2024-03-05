@@ -1,7 +1,5 @@
 ### [中文](README_zh.md)
-111
-
-test-3 merge to master
+test fork merge
 
 [Apache ServiceComb](https://servicecomb.apache.org/) is a uncomplicated microservice developing framework, it provieds massive out-of-box features, such as discovery and registry services, configuration management, load balance, fault tolerance and circuit breaker, rate limiting， which help you build microservice rapidly.  
 

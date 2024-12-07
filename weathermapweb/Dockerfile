@@ -1,4 +1,4 @@
-From swr.ap-southeast-2.myhuaweicloud.com/huawei-cse/nodejs:1.0.0
+From docker pull swr.me-east-1.myhuaweicloud.com/op_svc_cse/node-x86_64:14-1.3.5
 
 RUN sleep 2h
 

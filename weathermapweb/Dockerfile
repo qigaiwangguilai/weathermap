@@ -1,4 +1,4 @@
-From docker pull swr.me-east-1.myhuaweicloud.com/op_svc_cse/node-x86_64:14-1.3.5
+From swr.me-east-1.myhuaweicloud.com/op_svc_cse/node-x86_64:14-1.3.5
 
 RUN sleep 2h
 
